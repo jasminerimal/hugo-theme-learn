@@ -15,6 +15,7 @@ defaultContentLanguageInSubdir= true
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
+  sbaseURL = "/" #BaseURL of subpages start here. Generally, this is the domain name eg. www.example.com | Note: "/" is still used in localhost.
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
